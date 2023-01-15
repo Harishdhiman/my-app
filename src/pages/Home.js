@@ -44,7 +44,7 @@ export default function Home() {
 						<div className="row">
 							<div className="col-md-6 col-sm-6 col-xs-12">
 								<div className="about_image wow fadeInLeft" >
-								
+									<img src="https://belaltheme.com/Mp/Masud/Masud/images/banner.jpg" alt="about"/>
 								</div>
 							</div>
 					

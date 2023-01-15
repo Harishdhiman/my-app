@@ -1,6 +1,6 @@
 
 a.navbar-brand {
-    color: #ffffff !important;
+    color: #cbcbcb!important;
 }
 .fixed-header a.nav-link:hover {
     color: #5ac2f3 !important;
@@ -51,6 +51,6 @@ html {
   scroll-behavior: smooth;
 }
 .navbar-expand-lg .navbar-nav .nav-link {
-	color: #fff !important;
+	color: #cbcbcb!important;
     font-weight: 700;
 }

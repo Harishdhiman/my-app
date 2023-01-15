@@ -27,7 +27,7 @@ export default function About() {
 						<div className="row">
 							<div className="col-md-6 col-sm-6 col-xs-12">
 								<div className="about_image wow fadeInLeft">
-									<img src="https://belaltheme.com/Mp/Masud/Masud/images/about.jpg" alt="about-image"/>
+									<img src="https://belaltheme.com/Mp/Masud/Masud/images/about.jpg" alt="about"/>
 								</div>
 							</div>
 							
